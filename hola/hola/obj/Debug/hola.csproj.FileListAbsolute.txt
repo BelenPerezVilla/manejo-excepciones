@@ -1,0 +1,7 @@
+C:\Users\bpere\Desktop\POO unidad 5\hola\hola\bin\Debug\hola.exe.config
+C:\Users\bpere\Desktop\POO unidad 5\hola\hola\bin\Debug\hola.exe
+C:\Users\bpere\Desktop\POO unidad 5\hola\hola\bin\Debug\hola.pdb
+C:\Users\bpere\Desktop\POO unidad 5\hola\hola\obj\Debug\hola.csproj.AssemblyReference.cache
+C:\Users\bpere\Desktop\POO unidad 5\hola\hola\obj\Debug\hola.csproj.CoreCompileInputs.cache
+C:\Users\bpere\Desktop\POO unidad 5\hola\hola\obj\Debug\hola.exe
+C:\Users\bpere\Desktop\POO unidad 5\hola\hola\obj\Debug\hola.pdb
